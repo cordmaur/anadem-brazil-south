@@ -1,0 +1,10 @@
+shapely
+fiona
+pyproj
+geopandas
+rioxarray
+pystac-client
+matplotlib
+pytest
+cfgrib
+netCDF4

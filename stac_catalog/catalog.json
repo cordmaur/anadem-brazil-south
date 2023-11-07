@@ -1,0 +1,401 @@
+{
+  "type": "Catalog",
+  "id": "anadem-brazil-south",
+  "stac_version": "1.0.0",
+  "description": "Forest and Building removed DEM for the South of Brazil",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S23W050.cog/anadem_S23W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S23W051.cog/anadem_S23W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S23W052.cog/anadem_S23W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S23W053.cog/anadem_S23W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S23W054.cog/anadem_S23W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W050.cog/anadem_S24W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W051.cog/anadem_S24W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W052.cog/anadem_S24W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W053.cog/anadem_S24W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W054.cog/anadem_S24W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S24W055.cog/anadem_S24W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W049.cog/anadem_S25W049.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W050.cog/anadem_S25W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W051.cog/anadem_S25W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W052.cog/anadem_S25W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W053.cog/anadem_S25W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W054.cog/anadem_S25W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S25W055.cog/anadem_S25W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W049.cog/anadem_S26W049.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W050.cog/anadem_S26W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W051.cog/anadem_S26W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W052.cog/anadem_S26W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W053.cog/anadem_S26W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W054.cog/anadem_S26W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S26W055.cog/anadem_S26W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W049.cog/anadem_S27W049.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W050.cog/anadem_S27W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W051.cog/anadem_S27W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W052.cog/anadem_S27W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W053.cog/anadem_S27W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S27W054.cog/anadem_S27W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W049.cog/anadem_S28W049.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W050.cog/anadem_S28W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W051.cog/anadem_S28W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W052.cog/anadem_S28W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W053.cog/anadem_S28W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W054.cog/anadem_S28W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W055.cog/anadem_S28W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S28W056.cog/anadem_S28W056.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W049.cog/anadem_S29W049.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W050.cog/anadem_S29W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W051.cog/anadem_S29W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W052.cog/anadem_S29W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W053.cog/anadem_S29W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W054.cog/anadem_S29W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W055.cog/anadem_S29W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W056.cog/anadem_S29W056.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S29W057.cog/anadem_S29W057.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W050.cog/anadem_S30W050.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W051.cog/anadem_S30W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W052.cog/anadem_S30W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W053.cog/anadem_S30W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W054.cog/anadem_S30W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W055.cog/anadem_S30W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W056.cog/anadem_S30W056.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W057.cog/anadem_S30W057.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S30W058.cog/anadem_S30W058.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W051.cog/anadem_S31W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W052.cog/anadem_S31W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W053.cog/anadem_S31W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W054.cog/anadem_S31W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W055.cog/anadem_S31W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W056.cog/anadem_S31W056.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W057.cog/anadem_S31W057.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S31W058.cog/anadem_S31W058.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W051.cog/anadem_S32W051.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W052.cog/anadem_S32W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W053.cog/anadem_S32W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W054.cog/anadem_S32W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W055.cog/anadem_S32W055.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W056.cog/anadem_S32W056.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S32W057.cog/anadem_S32W057.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S33W052.cog/anadem_S33W052.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S33W053.cog/anadem_S33W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S33W054.cog/anadem_S33W054.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S34W053.cog/anadem_S34W053.cog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./anadem_S34W054.cog/anadem_S34W054.cog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ]
+}

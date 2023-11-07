@@ -1,0 +1,110 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "anadem_S34W053.cog",
+  "properties": {
+    "file_name": "anadem_S34W053.cog.tif",
+    "datetime": "2023-11-07T21:21:00.755801Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -51.99978870501421,
+          -33.760934165421915
+        ],
+        [
+          -51.99978870501421,
+          -32.99988145671586
+        ],
+        [
+          -53.0001526054097,
+          -32.99988145671586
+        ],
+        [
+          -53.0001526054097,
+          -33.760934165421915
+        ],
+        [
+          -51.99978870501421,
+          -33.760934165421915
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "DEM": {
+      "href": "https://github.com/cordmaur/anadem-brazil-south/releases/download/v1.0/anadem_S34W053.cog.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "anadem",
+      "proj:epsg": 4326,
+      "proj:shape": [
+        2824,
+        3712
+      ],
+      "proj:bbox": [
+        -53.0001526054097,
+        -33.760934165421915,
+        -51.99978870501421,
+        -32.99988145671586
+      ],
+      "proj:geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.99978870501421,
+              -33.760934165421915
+            ],
+            [
+              -51.99978870501421,
+              -32.99988145671586
+            ],
+            [
+              -53.0001526054097,
+              -32.99988145671586
+            ],
+            [
+              -53.0001526054097,
+              -33.760934165421915
+            ],
+            [
+              -51.99978870501421,
+              -33.760934165421915
+            ]
+          ]
+        ]
+      },
+      "proj:transform": [
+        0.0002694945852358553,
+        0.0,
+        -53.0001526054097,
+        0.0,
+        -0.0002694945852358557,
+        -32.99988145671586
+      ]
+    }
+  },
+  "bbox": [
+    -53.0001526054097,
+    -33.760934165421915,
+    -51.99978870501421,
+    -32.99988145671586
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "anadem_S33W054.cog",
+  "properties": {
+    "file_name": "anadem_S33W054.cog.tif",
+    "datetime": "2023-11-07T21:21:00.747582Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -52.99988311082447,
+          -33.0001509513011
+        ],
+        [
+          -52.99988311082447,
+          -31.9997870509056
+        ],
+        [
+          -54.00024701121997,
+          -31.9997870509056
+        ],
+        [
+          -54.00024701121997,
+          -33.0001509513011
+        ],
+        [
+          -52.99988311082447,
+          -33.0001509513011
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "DEM": {
+      "href": "https://github.com/cordmaur/anadem-brazil-south/releases/download/v1.0/anadem_S33W054.cog.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "anadem",
+      "proj:epsg": 4326,
+      "proj:shape": [
+        3712,
+        3712
+      ],
+      "proj:bbox": [
+        -54.00024701121997,
+        -33.0001509513011,
+        -52.99988311082447,
+        -31.9997870509056
+      ],
+      "proj:geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.99988311082447,
+              -33.0001509513011
+            ],
+            [
+              -52.99988311082447,
+              -31.9997870509056
+            ],
+            [
+              -54.00024701121997,
+              -31.9997870509056
+            ],
+            [
+              -54.00024701121997,
+              -33.0001509513011
+            ],
+            [
+              -52.99988311082447,
+              -33.0001509513011
+            ]
+          ]
+        ]
+      },
+      "proj:transform": [
+        0.00026949458523585723,
+        0.0,
+        -54.00024701121997,
+        0.0,
+        -0.00026949458523585723,
+        -31.9997870509056
+      ]
+    }
+  },
+  "bbox": [
+    -54.00024701121997,
+    -33.0001509513011,
+    -52.99988311082447,
+    -31.9997870509056
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+  ]
+}
