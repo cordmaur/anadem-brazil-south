@@ -21,7 +21,7 @@
 		"--memory-swap=20g",
 		"--oom-kill-disable"
 	],
-	// "postCreateCommand": "pip install -e .",
+	"postCreateCommand": "pip install pyicloud pyarrow unidecode ipywidgets stackstac tqdm scikit-image",
 	"forwardPorts": [],
 	"customizations": {
 		"vscode": {
