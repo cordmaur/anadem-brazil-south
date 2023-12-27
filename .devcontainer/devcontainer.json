@@ -17,11 +17,11 @@
 		// "source=D:/OneDrive/Trabalho/SOE/COVEC/RelatoriosChuva/reports_folder,target=/workspaces/reports_folder,type=bind"
 	],
 	"runArgs": [
-		"--memory=4g",
-		"--memory-swap=20g",
+		"--memory=30g",
+		"--memory-swap=50g",
 		"--oom-kill-disable"
 	],
-	"postCreateCommand": "pip install pyicloud pyarrow unidecode ipywidgets stackstac tqdm scikit-image",
+	"postCreateCommand": "pip install pyicloud pyarrow unidecode ipywidgets stackstac tqdm scikit-image pypdf2 img2pdf",
 	"forwardPorts": [],
 	"customizations": {
 		"vscode": {

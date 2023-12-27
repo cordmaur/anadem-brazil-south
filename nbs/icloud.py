@@ -154,3 +154,10 @@ def get_flood(remote_folder, place, local_folder):
     local_path = get_file(remote_folder, fname, local_folder)
 
     return xr.load_dataset(local_path)
+
+def get_report(remote_folder, place, local_folder):
+    """Get the PDF report for the specific location"""
+
+    fname = create_fname(place).with_suffix('.pdf')
+    local_path = get_file(remote_folder, fname, local_folder)
+    return local_path
